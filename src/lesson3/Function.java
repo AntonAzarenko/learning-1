@@ -1,7 +1,7 @@
 package lesson3;
 
 
-public class Funktion {
+public class Function {
     public static int min(int a, int b, int c) {
 
         if (a <= b && a <= c)
